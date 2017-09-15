@@ -2,8 +2,8 @@
   "name": "imoney-notice",
   "description": "a clean and simple notification, and selection suite for javascript, with no dependencies",
   "author": "thunkli",
-  "main": "./build/notie.min.js",
-  "version": "1.0.1",
+  "main": "./build/notice.min.js",
+  "version": "1.0.2",
   "scripts": {
     "build": "webpack --progress --watch --color"
   },
