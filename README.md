@@ -25,7 +25,7 @@
 
 ## Usage
 ```js
-import notie from 'imoney-notice'
+import Notcie from 'imoney-notice'
 ```
 
 ```js
