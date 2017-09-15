@@ -1,5 +1,5 @@
 {
-  "name": "notice",
+  "name": "imoney-notice",
   "description": "a clean and simple notification, and selection suite for javascript, with no dependencies",
   "author": "thunkli",
   "main": "./build/notie.min.js",
@@ -14,12 +14,11 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.0",
     "babel-preset-es2015": "^6.24.1",
-    "webpack": "^3.6.0"
-  },
-  "dependencies": {
+    "webpack": "^3.6.0",
     "css-loader": "^0.28.7",
     "extract-text-webpack-plugin": "^3.0.0"
   },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/imoney-team/imoney-notice.git"
