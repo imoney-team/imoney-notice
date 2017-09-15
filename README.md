@@ -25,7 +25,8 @@
 
 ## Usage
 ```js
-import Notcie from 'imoney-notice'
+import Notice from 'imoney-notice';
+import 'imoney-notice/src/style.css';
 ```
 
 ```js

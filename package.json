@@ -3,7 +3,7 @@
   "description": "a clean and simple notification, and selection suite for javascript, with no dependencies",
   "author": "thunkli",
   "main": "./build/notice.min.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
     "build": "webpack --progress --watch --color"
   },
