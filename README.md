@@ -23,7 +23,7 @@
 ### npm:
     npm i imoney-notice --save
 
-##Usage
+## Usage
 ```js
 import notie from 'imoney-notice'
 ```
